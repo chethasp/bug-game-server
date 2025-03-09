@@ -1,0 +1,3 @@
+/home/chethas/projects/bug-game-server/build/CMakeFiles/BugGameServer.dir
+/home/chethas/projects/bug-game-server/build/CMakeFiles/edit_cache.dir
+/home/chethas/projects/bug-game-server/build/CMakeFiles/rebuild_cache.dir
